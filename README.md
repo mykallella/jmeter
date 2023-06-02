@@ -12,15 +12,15 @@
 - JMeter - A arquitetura
 - JMeter - Os componentes
 - JMeter - Criação de scripts de testes automatizados
-- PROJETO eCommerce - Criar de plano de testes para seu cliente ou empresa
-- PROJETO eCommerce - Criar teste para um usuário que navega na loja
-- PROJETO eCommerce - Criar teste de um usuário buscando produtos
-- PROJETO eCommerce - Teste de um usuário realizando compra
-- PROJETO eCommerce - Validar ordem de compra
+- PROJETO eCommerce - Criando plano de testes para seu cliente ou empresa
+- PROJETO eCommerce - Criando teste para um usuário que navega na loja
+- PROJETO eCommerce - Criando teste de um usuário buscando produtos
+- PROJETO eCommerce - Criando teste de um usuário realizando compra
+- PROJETO eCommerce - Validando ordem de compra
 - PERFORMANCE - Testes de performance na prática
-- PERFORMANCE - Criação de testes de performance de acordo com as necessidades
-- Webservices - Criação de testes para arquitetura REST com GET e POST
-- Webservices - Criação de testes para arquitetura SOAP com HTTP POST
+- PERFORMANCE - Testes de performance de acordo com as necessidades
+- Webservices - Testes para arquitetura REST com GET e POST
+- Webservices - Testes para arquitetura SOAP com HTTP POST
 - Conceitos - Protocolo HTTP e Status Code
 - Conceitos - Indicadores, volumetria e cenários de testes
 - Conceitos - Defeitos de testes de performance
